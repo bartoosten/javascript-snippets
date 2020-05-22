@@ -1,6 +1,9 @@
 # Javascript Snippets
 Overview for JavaScript Array Methods
 
+Source:
+https://www.youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2
+
 ## forEach method
 
 ```javascript
@@ -47,3 +50,5 @@ numbers.forEach((item, index, arr) => {
 
 // Expected outcome
 ```
+
+### UseCases
